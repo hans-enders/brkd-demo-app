@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue": "^3.2.41",
-    "verdaccio": "3.7.0"
+    "verdaccio": "4.6.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.2.0",
